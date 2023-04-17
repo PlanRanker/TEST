@@ -26,7 +26,6 @@ This data set mainly contains the basic attributes of about five million random 
 | Gender | An integer, the serialized ID that represents the user gender |
 | Occupation | An integer, the serialized ID that represents the user occupation |
 | Habitual City | An integer, the serialized ID that represents the user habitual city，single value |
-| User Tag List | A String, the ID of each tag is separated by English semicolon after serialization |
 
 ### transfer_plan_profile.csv
 This data file mainly contains the basic attribute characteristics of about 69M products, such as product Depart City ID, Arrive City ID, Cost Time, Cost Price, etc. Each row of the data set represents the information of a transfer plan, separated by commas. The detailed description of each column in the data set is as follows:
